@@ -12,7 +12,7 @@ Biblioteca Completa: Com um único clique, visualize todas as aberturas disponí
 
 Design Responsivo: A interface se adapta perfeitamente a diferentes tamanhos de tela, oferecendo uma experiência de usuário consistente em desktops, tablets e celulares.
 
-Links para Estudo: Cada abertura inclui um link "Saiba mais" que direciona o usuário para fontes externas confiáveis (como Wikipedia e Chess.com) para um aprofundamento teórico.
+Links para Estudo: Cada abertura inclui um link "Saiba mais" que direciona o usuário para fontes externas confiáveis (como Wikipedia) para um aprofundamento teórico.
 
 Estilização Moderna: O layout é construído com CSS moderno, incluindo Flexbox, variáveis para um sistema de cores coeso e uma barra de rolagem personalizada.
 
