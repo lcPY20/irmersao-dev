@@ -1,0 +1,374 @@
+[
+  {
+    "nome": "Abertura Espanhola (Ruy Lopez)",
+    "descricao": "Uma das aberturas mais antigas e populares, onde as brancas desenvolvem o bispo para atacar o cavalo que defende o peão central das pretas.",
+    "data_criacao": "1561",
+    "link": "https://pt.wikipedia.org/wiki/Abertura_Ruy_L%C3%B3pez"
+  },
+  {
+    "nome": "Jogo Italiano (Giuoco Piano)",
+    "descricao": "Uma abertura clássica que foca no rápido desenvolvimento das peças e controle do centro. Conhecida por levar a posições mais calmas e estratégicas.",
+    "data_criacao": "1500",
+    "link": "https://pt.wikipedia.org/wiki/Giuoco_Piano"
+  },
+  {
+    "nome": "Defesa Siciliana",
+    "descricao": "A resposta mais popular e agressiva contra 1.e4. As pretas criam um desequilíbrio imediato ao lutar pelo centro com o peão da coluna 'c'.",
+    "data_criacao": "1594",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_Siciliana"
+  },
+  {
+    "nome": "Defesa Francesa",
+    "descricao": "Uma defesa sólida e resiliente. As pretas permitem que as brancas estabeleçam um centro de peões, que se torna um alvo para contra-ataques.",
+    "data_criacao": "1490",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_francesa"
+  },
+  {
+    "nome": "Defesa Caro-Kann",
+    "descricao": "Considerada uma das defesas mais seguras contra 1.e4. As pretas preparam-se para disputar o centro sem criar fraquezas na sua estrutura de peões.",
+    "data_criacao": "1886",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_Caro-Kann"
+  },
+  {
+    "nome": "Gambito da Dama",
+    "descricao": "Uma das aberturas mais conhecidas. As brancas oferecem temporariamente um peão para obter controle do centro e um desenvolvimento mais rápido.",
+    "data_criacao": "1490",
+    "link": "https://pt.wikipedia.org/wiki/Gambito_da_Dama"
+  },
+  {
+    "nome": "Gambito do Rei",
+    "descricao": "Uma abertura romântica e agressiva, onde as brancas sacrificam um peão na segunda jogada para obter uma forte iniciativa de ataque.",
+    "data_criacao": "1500",
+    "link": "https://pt.wikipedia.org/wiki/Gambito_do_Rei"
+  },
+  {
+    "nome": "Jogo Escocês",
+    "descricao": "Uma alternativa agressiva à Ruy Lopez e ao Jogo Italiano. As brancas abrem o centro imediatamente, levando a um jogo tático e aberto.",
+    "data_criacao": "1750",
+    "link": "https://pt.wikipedia.org/wiki/Jogo_Escoc%C3%AAs"
+  },
+  {
+    "nome": "Defesa Pirc",
+    "descricao": "Uma abertura hipermoderna onde as pretas permitem que as brancas construam um grande centro de peões, com a intenção de atacá-lo mais tarde.",
+    "data_criacao": "1930",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_Pirc"
+  },
+  {
+    "nome": "Abertura Inglesa",
+    "descricao": "Uma abertura de flanco flexível e estratégica. As brancas começam controlando o centro à distância com o peão 'c', mantendo várias opções em aberto.",
+    "data_criacao": "1843",
+    "link": "https://pt.wikipedia.org/wiki/Abertura_inglesa"
+  },
+  {
+    "nome": "Abertura Réti",
+    "descricao": "Uma abertura hipermoderna nomeada em homenagem a Richard Réti. As brancas começam com 1.Cf3, planejando controlar o centro com peças em vez de peões.",
+    "data_criacao": "1924",
+    "link": "https://pt.wikipedia.org/wiki/Abertura_R%C3%A9ti"
+  },
+  {
+    "nome": "Defesa Holandesa",
+    "descricao": "Uma resposta agressiva e assimétrica ao Gambito da Dama (1.d4). As pretas lutam pelo controle da casa e4 desde o primeiro movimento.",
+    "data_criacao": "1789",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_holandesa"
+  },
+  {
+    "nome": "Defesa Nimzo-Indiana",
+    "descricao": "Uma defesa hipermoderna de d4, onde as pretas atacam o cavalo de c3 com 3... Bb4, frequentemente resultando em estruturas complexas no centro.",
+    "data_criacao": "1914",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_Nimzo-%C3%8Dndia"
+  },
+  {
+    "nome": "Abertura Catalã",
+    "descricao": "Caracterizada pelo fianchetto do bispo do rei branco (g3 e Bg2) em combinação com d4 e c4, buscando pressão de longo alcance.",
+    "data_criacao": "1929",
+    "link": "https://pt.wikipedia.org/wiki/Abertura_Catal%C3%A3"
+  },
+  {
+    "nome": "Defesa Índia do Rei",
+    "descricao": "Uma defesa agressiva onde as pretas permitem que as brancas estabeleçam um grande centro (d4 e c4) e depois o atacam com rupturas, principalmente ...e5 ou ...c5.",
+    "data_criacao": "1935",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_%C3%8Dndia_do_Rei"
+  },
+  {
+    "nome": "Defesa Grünfeld",
+    "descricao": "Uma defesa hipermoderna em que as pretas imediatamente minam o centro branco, trocando o controle central direto por pressão lateral.",
+    "data_criacao": "1922",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_Gr%C3%BCnfeld"
+  },
+  {
+    "nome": "Defesa Eslava",
+    "descricao": "Uma sólida resposta ao Gambito da Dama recusado (1. d4 d5 2. c4 c6), que visa desenvolver o Bispo de Dama sem bloqueá-lo.",
+    "data_criacao": "1887",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_Eslava"
+  },
+  {
+    "nome": "Defesa Petroff (Defesa Russa)",
+    "descricao": "Uma defesa simétrica e sólida contra 1. e4 e5 2. Nf3, buscando igualdade e simplificação rápida.",
+    "data_criacao": "1840",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_Petrov"
+  },
+  {
+    "nome": "Abertura Vienense",
+    "descricao": "Abertura de flanco (1. e4 e5 2. Nc3) que visa apoiar um futuro ataque f4 sem enfraquecer o Rei imediatamente.",
+    "data_criacao": "1837",
+    "link": "https://pt.wikipedia.org/wiki/Abertura_Vienense"
+  },
+  {
+    "nome": "Defesa Alekhine",
+    "descricao": "Uma abertura provocativa (1. e4 Nf6) que convida as brancas a avançar os peões centrais, que se tornam alvos para o ataque subsequente.",
+    "data_criacao": "1921",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_de_Alekhine"
+  },
+  {
+    "nome": "Abertura Bird",
+    "descricao": "Uma abertura irregular (1. f4) que tenta controlar a casa e5, mas enfraquece a ala do rei branco.",
+    "data_criacao": "1844",
+    "link": "https://pt.wikipedia.org/wiki/Abertura_Bird"
+  },
+  {
+    "nome": "Abertura Larsen (Nimzo-Larsen)",
+    "descricao": "Uma abordagem hipermoderna (1. b3) que fiancheta o bispo da rainha para exercer pressão sobre o centro e a ala do rei.",
+    "data_criacao": "1960",
+    "link": "https://pt.wikipedia.org/wiki/Ataque_Nimzo-Larsen"
+  },
+  {
+    "nome": "Defesa Bogo-Indiana",
+    "descricao": "Defesa de d4 onde as pretas respondem com 3... Bb4+, forçando uma resposta das brancas e impedindo o desenvolvimento do Cavalo de Dama para c3.",
+    "data_criacao": "1923",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_Bogo-%C3%8Dndia"
+  },
+  {
+    "nome": "Defesa Benoni Moderna",
+    "descricao": "Uma defesa assimétrica contra 1. d4, onde as pretas aceitam um centro fechado (d5) e buscam contra-jogo na ala da rainha e na coluna e.",
+    "data_criacao": "1927",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_Benoni"
+  },
+  {
+    "nome": "Gambito Benko (Volga)",
+    "descricao": "Um gambito posicional onde as pretas sacrificam um peão (1. d4 Nf6 2. c4 c5 3. d5 b5) para obter pressão posicional nas colunas a e b.",
+    "data_criacao": "1967",
+    "link": "https://pt.wikipedia.org/wiki/Gambito_Benko"
+  },
+  {
+    "nome": "Defesa Filidor",
+    "descricao": "Uma defesa clássica e sólida (1. e4 e5 2. Nf3 d6) que prioriza o controle da casa e5 e a solidez, mas pode levar a posições passivas.",
+    "data_criacao": "1777",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_Philidor"
+  },
+  {
+    "nome": "Abertura Quatro Cavalos",
+    "descricao": "Uma abertura simétrica (1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6) caracterizada pelo desenvolvimento rápido de todos os cavalos.",
+    "data_criacao": "1850",
+    "link": "https://pt.wikipedia.org/wiki/Jogo_dos_Quatro_Cavalos"
+  },
+  {
+    "nome": "Abertura Ponziani",
+    "descricao": "Uma abertura agressiva (1. e4 e5 2. Nf3 Nc6 3. c3) que prepara o avanço central d4 e busca um ataque rápido no centro.",
+    "data_criacao": "1769",
+    "link": "https://pt.wikipedia.org/wiki/Abertura_Ponziani"
+  },
+  {
+    "nome": "Abertura Húngara",
+    "descricao": "Uma defesa tranquila contra o Jogo Italiano (1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7), focada na solidez e prevenção de táticas.",
+    "data_criacao": "1840",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_H%C3%BAngara"
+  },
+  {
+    "nome": "Abertura Grob",
+    "descricao": "Uma abertura irregular e incomum (1. g4) que busca desequilibrar a posição e quebrar as regras de desenvolvimento clássico.",
+    "data_criacao": "1940",
+    "link": "https://pt.wikipedia.org/wiki/Ataque_Grob"
+  },
+  {
+    "nome": "Abertura Polonesa (Sokolsky)",
+    "descricao": "Uma abertura flanco (1. b4) que ganha espaço na ala da dama e prepara o fianchetto do bispo, muitas vezes levando a posições de manobra.",
+    "data_criacao": "1925",
+    "link": "https://pt.wikipedia.org/wiki/Abertura_Sokolsky"
+  },
+  {
+    "nome": "Defesa Chigorin",
+    "descricao": "Uma defesa incomum contra o Gambito da Dama (1. d4 d5 2. c4 Nc6), que ignora a estrutura de peões clássica e busca jogo de peças ativo.",
+    "data_criacao": "1880",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_Chigorin"
+  },
+  {
+    "nome": "Abertura Zukertort (Abertura 1. Nf3)",
+    "descricao": "Uma abertura de flanco (1. Nf3) flexível e popular que pode transpor para muitas outras aberturas como o Réti ou a Abertura Inglesa.",
+    "data_criacao": "1868",
+    "link": "https://pt.wikipedia.org/wiki/Abertura_R%C3%A9ti"
+  },
+  {
+    "nome": "Defesa Semi-Eslava",
+    "descricao": "Uma variação da Defesa Eslava onde as pretas jogam ...e6, criando uma estrutura de peões mais sólida, mas potencialmente bloqueando o bispo de c8.",
+    "data_criacao": "1910",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_Semi-Eslava"
+  },
+  {
+    "nome": "Defesa Owen",
+    "descricao": "Uma defesa hipermoderna rara (1. e4 b6) que fiancheta o bispo de dama para atacar o centro branco à distância.",
+    "data_criacao": "1870",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_Owen"
+  },
+  {
+    "nome": "Gambito Dinamarquês (Nordic Gambit)",
+    "descricao": "Um gambito agressivo de peão no Jogo Central (1. e4 e5 2. d4 exd4 3. c3), onde as brancas sacrificam material por rápido desenvolvimento e iniciativa.",
+    "data_criacao": "1867",
+    "link": "https://pt.wikipedia.org/wiki/Gambito_Dinamarqu%C3%AAs"
+  },
+  {
+    "nome": "Abertura Viena (Defesa Steinitz)",
+    "descricao": "Uma linha sólida e posicional após 1. e4 e5 2. Nc3, onde as pretas jogam 2... Nc6 e 3... d6, focando na defesa do ponto e5.",
+    "data_criacao": "1885",
+    "link": "https://pt.wikipedia.org/wiki/Abertura_Vienense"
+  },
+  {
+    "nome": "Abertura do Peão da Dama",
+    "descricao": "Iniciada por 1. d4, uma das aberturas mais sólidas e flexíveis, focando no controle central e desenvolvimento.",
+    "data_criacao": "Século XIX",
+    "link": "https://pt.wikipedia.org/wiki/Abertura_do_Pe%C3%A3o_da_Dama"
+  },
+  {
+    "nome": "Defesa Escandinava",
+    "descricao": "Caracterizada por 1. e4 d5, as pretas imediatamente desafiam o centro, muitas vezes resultando em uma partida aberta.",
+    "data_criacao": "Século XV",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_Escandinava"
+  },
+  {
+    "nome": "Gambito Evans",
+    "descricao": "Um gambito agressivo após 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4, oferecendo um peão por rápido desenvolvimento e ataque.",
+    "data_criacao": "1827",
+    "link": "https://pt.wikipedia.org/wiki/Gambito_Evans"
+  },
+  {
+    "nome": "Defesa Budapeste",
+    "descricao": "Defesa dinâmica contra 1. d4, onde as pretas respondem com 1... Nf6 2. c4 e5, sacrificando um peão para desequilibrar a posição.",
+    "data_criacao": "1896",
+    "link": "https://pt.wikipedia.org/wiki/Defesa_Budapeste"
+  },
+  {
+    "nome": "Abertura do Bispo",
+    "descricao": "Abertura clássica com 1. e4 e5 2. Bc4, desenvolvendo rapidamente o bispo para mirar o ponto fraco f7.",
+    "data_criacao": "Século XVII",
+    "link": "https://pt.wikipedia.org/wiki/Abertura_do_Bispo"
+  },
+  {
+    "nome": "Gambito Blackmar-Diemer",
+    "descricao": "Um gambito agressivo contra 1. d4, com a sequência 1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3, sacrificando um peão por ataque rápido.",
+    "data_criacao": "1932",
+    "link": "https://en.wikipedia.org/wiki/Blackmar%E2%80%93Diemer_Gambit"
+  },
+  {
+    "nome": "Ataque Índia do Rei (KIA)",
+    "descricao": "Um sistema flexível para as brancas (1. Nf3, 2. g3, 3. Bg2, 4. d3, 5. O-O) que pode ser jogado contra diversas defesas das pretas.",
+    "data_criacao": "1935",
+    "link": "https://en.wikipedia.org/wiki/King%27s_Indian_Attack"
+  },
+  {
+    "nome": "Defesa Damiano",
+    "descricao": "Uma das defesas mais antigas e consideradas fracas contra 1. e4, caracterizada pela resposta 1... e5 2. Nf3 f6.",
+    "data_criacao": "Século XVI",
+    "link": "https://en.wikipedia.org/wiki/Damiano%27s_Defence"
+  },
+  {
+    "nome": "Defesa Hipopótamo",
+    "descricao": "Um sistema de defesa raro onde as pretas mantêm seus peões nas 6ª e 7ª fileiras, esperando o ataque das brancas para reagir.",
+    "data_criacao": "Década de 1960",
+    "link": "https://en.wikipedia.org/wiki/Hippopotamus_Defence"
+  },
+  {
+    "nome": "Abertura Clemenz",
+    "descricao": "Abertura não ortodoxa caracterizada pelo movimento 1. h3, que é lento e visa controle lateral, mas raramente usado em alto nível.",
+    "data_criacao": "Século XIX",
+    "link": "https://en.wikipedia.org/wiki/Clemenz_Opening"
+  },
+  {
+    "nome": "Abertura Van 't Kruijs",
+    "descricao": "Uma abertura posicional iniciada por 1. e3, preparando o fianchetto do bispo da dama ou apoiando d4.",
+    "data_criacao": "Século XIX",
+    "link": "https://en.wikipedia.org/wiki/Van_%27t_Kruijs_Opening"
+  },
+  {
+    "nome": "Gambito Staunton",
+    "descricao": "Um gambito jogado contra a Defesa Holandesa: 1. d4 f5 2. e4, buscando abrir linhas e desenvolver peças rapidamente.",
+    "data_criacao": "1846",
+    "link": "https://en.wikipedia.org/wiki/Staunton_Gambit"
+  },
+  {
+    "nome": "Abertura Ware",
+    "descricao": "Uma abertura flank incomum caracterizada pelo movimento 1. a4, que ataca o centro indiretamente e prepara a ala da dama.",
+    "data_criacao": "Século XIX",
+    "link": "https://en.wikipedia.org/wiki/Ware_Opening"
+  },
+  {
+    "nome": "Defesa Checa",
+    "descricao": "Variação da Defesa Filidor, que ocorre após 1. e4 d6, com 2. d4 Nf6 3. Nc3 c6, criando uma estrutura sólida e defensiva.",
+    "data_criacao": "1896",
+    "link": "https://en.wikipedia.org/wiki/Czech_Defence"
+  },
+  {
+    "nome": "Abertura Saragoça",
+    "descricao": "Uma abertura não convencional que começa com 1. c3, preparando d4 ou o fianchetto da dama.",
+    "data_criacao": "1919",
+    "link": "https://en.wikipedia.org/wiki/Saragossa_Opening"
+  },
+  {
+    "nome": "Gambito Latviano",
+    "descricao": "Um gambito tático e arriscado contra o Jogo do Rei (1. e4 e5 2. Nf3 f5), buscando ataque imediato.",
+    "data_criacao": "Século XIX",
+    "link": "https://pt.wikipedia.org/wiki/Gambito_Latviano"
+  },
+  {
+    "nome": "Abertura de Três Cavalos",
+    "descricao": "Ocorre após 1. e4 e5 2. Nf3 Nc6 3. Nc3, uma abertura sólida e simétrica que evita o Gambito do Rei e a Ruy Lopez imediata.",
+    "data_criacao": "Século XIX",
+    "link": "https://en.wikipedia.org/wiki/Three_Knights_Opening"
+  },
+  {
+    "nome": "Abertura Keres",
+    "descricao": "Uma abertura incomum, geralmente caracterizada por 1. e3 seguida por c4 ou movimentos de fianchetto, nomeada em homenagem a Paul Keres.",
+    "data_criacao": "Década de 1950",
+    "link": "https://en.wikipedia.org/wiki/Keres_Opening"
+  },
+  {
+    "nome": "Abertura Orangotango",
+    "descricao": "Abertura lateral que começa com 1. b4, buscando o controle da ala da dama e o fianchetto rápido do bispo b2.",
+    "data_criacao": "1924",
+    "link": "https://en.wikipedia.org/wiki/Orangutan_Opening"
+  },
+  {
+    "nome": "Defesa Sarratt",
+    "descricao": "Uma defesa rara, geralmente vista após 1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e4, uma variante do Gambito da Dama Aceito/Eslavo.",
+    "data_criacao": "1817",
+    "link": "https://en.wikipedia.org/wiki/Sarratt%27s_Opening"
+  },
+  {
+    "nome": "Abertura Dunst",
+    "descricao": "Uma abertura hipermoderna que começa com 1. Nc3, desenvolvendo o cavalo antes de definir a estrutura central.",
+    "data_criacao": "Século XX",
+    "link": "https://en.wikipedia.org/wiki/Dunst_Opening"
+  },
+  {
+    "nome": "Defesa Franco-Benoni",
+    "descricao": "Uma tentativa de combinar ideias da Francesa e da Benoni, muitas vezes surgindo após 1. e4 c5 2. d4 e6 (ou ordens de lance similares).",
+    "data_criacao": "Século XX",
+    "link": "https://en.wikipedia.org/wiki/Franco-Benoni_Defense"
+  },
+  {
+    "nome": "Gambito de Brisbane",
+    "descricao": "Um gambito de peão raro e especulativo, 1. g4 d5 2. Bg2 e6 3. c4, buscando um ataque rápido na ala do rei.",
+    "data_criacao": "Século XX",
+    "link": "https://www.chessgames.com/perl/chessopening?eco=A00"
+  },
+  {
+    "nome": "Defesa Húngara Inversa",
+    "descricao": "Uma estrutura sólida para as brancas contra 1. e4 e5, onde as brancas adotam a estratégia defensiva da Húngara (2. g3 ou 2. d3) como ataque.",
+    "data_criacao": "Século XX",
+    "link": "https://en.wikipedia.org/wiki/King%27s_Pawn_Opening#Hungarian_Defence"
+  },
+  {
+    "nome": "Defesa Balogh",
+    "descricao": "Uma defesa posicional contra 1. e4, geralmente caracterizada por 1... d6, seguindo com movimentos lentos de desenvolvimento.",
+    "data_criacao": "1905",
+    "link": "https://en.wikipedia.org/wiki/Balogh_Defence"
+  }
+]

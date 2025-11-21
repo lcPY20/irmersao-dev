@@ -1,0 +1,49 @@
+<!DOCTYPE html> <!-- Define o tipo de documento como HTML5. Essencial para o navegador renderizar a página corretamente. -->
+<html lang="pt-br"> <!-- O elemento raiz da página. O atributo 'lang' especifica o idioma do conteúdo, importante para acessibilidade e SEO. -->
+<head>
+    <!-- A seção <head> contém metadados sobre o documento, que não são exibidos diretamente na página. -->
+    <meta charset="UTF-8"> <!-- Define o conjunto de caracteres como UTF-8, que suporta a maioria dos caracteres e símbolos. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Configura a viewport para que o site seja responsivo e se ajuste bem em diferentes tamanhos de tela, como em celulares. -->
+    <link rel="stylesheet" href="style.css"> <!-- Vincula um arquivo de folha de estilos (CSS) externo para estilizar a página. -->
+    <title>LcXadrez</title> <!-- Define o título da página, que aparece na aba ou na janela do navegador. -->
+</head>
+<body>
+    <!-- O <body> contém todo o conteúdo visível da página web. -->
+
+    <header>
+        <!-- O <header> representa o cabeçalho da página, geralmente contendo o título principal e elementos de navegação ou busca. -->
+        <h1>Aberturas de Xadrez</h1> <!-- Título principal da página. -->
+        <div class="search-container">
+            <!-- Div para agrupar os controles de busca e navegação. -->
+            <button id="botao-biblioteca" class="botao-cabecalho">Biblioteca</button> <!-- Botão para mostrar todos os itens. -->
+            <input type="text" id="input-busca" placeholder="Digite uma Abertura de Xadrez"> <!-- Campo de texto para o usuário inserir o termo de busca. -->
+            <button id="botao-busca" class="botao-cabecalho">Buscar</button> <!-- Botão para iniciar a busca. -->
+        </div>
+    </header>
+
+    <main>
+        <!-- A tag <main> define o conteúdo principal e único do documento. -->
+        <section class="card-container">
+            <!-- Uma seção destinada a conter os "cards" de resultados. O conteúdo aqui será gerado dinamicamente pelo JavaScript. -->
+        <!--    <article class="card">
+                <h2>Xadrez</h2>
+                <p>1475</p>
+                <p>Xadrez é pensar antes de agir</p>
+                <a href="https://pt.wikipedia.org/wiki/Hist%C3%B3ria_do_xadrez" target="_blank">Saiba mais</a>
+            </article>--> <!-- Exemplo de um card, comentado para não aparecer na página inicial. -->
+        </section>
+    </main>
+
+    <footer class="footer">
+        <!-- O <footer> representa o rodapé da página, geralmente com informações de direitos autorais, links úteis, etc. -->
+        <ul class="footer-links">
+            <!-- Uma lista não ordenada para os links do rodapé. -->
+            <li>
+                <!-- Item da lista. -->
+                <a href="https://www.chess.com/play/online" target="_blank">Xadrez Online</a> <!-- Link para um site externo, que abrirá em uma nova aba ('target="_blank"'). -->
+            </li>
+        </ul>
+    </footer>
+    <script src="script.js"></script> <!-- Vincula e executa o arquivo JavaScript externo, que adiciona interatividade à página. -->
+</body>
+</html>
